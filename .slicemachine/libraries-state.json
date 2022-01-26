@@ -91,84 +91,134 @@
               {
                 "link": {
                   "link_type": "Web",
-                  "url": "https://prismic.io"
+                  "url": "https://slicemachine.dev"
                 },
-                "tag": "deploy visionary supply-chains",
+                "tag": "deploy dynamic e-markets",
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Enhance distributed e-markets",
+                    "text": "Exploit customized channels",
                     "spans": []
                   }
                 ],
                 "image": {
                   "dimensions": {
-                    "width": 200,
+                    "width": 300,
                     "height": 500
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.prismic.io/prismic-demo-cah/71a21674-36ac-4227-a646-6cb64954d946_weight.png?w=300"
+                  "url": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=300&h=500&fit=crop"
                 },
-                "background": "#60827f",
-                "color": "#b1312f"
+                "background": "#e21288",
+                "color": "#00db37"
               },
               {
                 "link": {
                   "link_type": "Web",
-                  "url": "https://prismic.io"
+                  "url": "https://slicemachine.dev"
                 },
-                "tag": "deploy visionary supply-chains",
+                "tag": "mesh magnetic communities",
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Enhance distributed e-markets",
+                    "text": "Maximize user-centric vortals",
                     "spans": []
                   }
                 ],
                 "image": {
                   "dimensions": {
-                    "width": 200,
+                    "width": 300,
                     "height": 500
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.prismic.io/prismic-demo-cah/f2afeeeb-1b8b-4c26-a577-4677b3adf7f2_computer.png?w=300"
+                  "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a?w=300&h=500&fit=crop"
                 },
-                "background": "#14c18c",
-                "color": "#b1312f"
+                "background": "#5d8eea",
+                "color": "#0c12bd"
               },
               {
                 "link": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
-                "tag": "maximize vertical methodologies",
+                "tag": "drive transparent metrics",
                 "title": [
                   {
                     "type": "heading3",
-                    "text": "Grow integrated vortals",
+                    "text": "Transition magnetic convergence",
                     "spans": []
                   }
                 ],
                 "image": {
                   "dimensions": {
-                    "width": 200,
+                    "width": 300,
                     "height": 500
                   },
                   "alt": "Placeholder image",
                   "copyright": null,
-                  "url": "https://images.prismic.io/prismic-demo-cah/b6733d7b-f9bc-43ad-9279-9d5278383404_tractor.png?w=300"
+                  "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=300&h=500&fit=crop"
                 },
-                "background": "#14c18c",
-                "color": "#a85293"
+                "background": "#bd86de",
+                "color": "#3a683b"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://slicemachine.dev"
+                },
+                "tag": "aggregate vertical mindshare",
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Implement B2C niches",
+                    "spans": []
+                  }
+                ],
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 500
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=300&h=500&fit=crop"
+                },
+                "background": "#d0e94c",
+                "color": "#0f445a"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://slicemachine.dev"
+                },
+                "tag": "implement end-to-end schemas",
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Incubate value-added experiences",
+                    "spans": []
+                  }
+                ],
+                "image": {
+                  "dimensions": {
+                    "width": 300,
+                    "height": 500
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.unsplash.com/photo-1560762484-813fc97650a0?w=300&h=500&fit=crop"
+                },
+                "background": "#873e1f",
+                "color": "#dc9dc8"
               }
             ],
             "primary": {
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Seize wireless relationships",
+                  "text": "Matrix cutting-edge networks",
                   "spans": []
                 }
               ]
@@ -182,9 +232,9 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\FeaturedLinks\\default-slice\\preview.png",
+            "path": "/Users/arnaudlewis/Desktop/cli/prismic-demo-cah/.slicemachine/assets/slices/FeaturedLinks/default-slice/preview.png",
             "width": 800,
-            "height": 1093
+            "height": 2303
           }
         }
       },
@@ -249,14 +299,14 @@
                 "question": [
                   {
                     "type": "heading3",
-                    "text": "Integrate seamless relationships",
+                    "text": "Embrace synergistic synergies",
                     "spans": []
                   }
                 ],
                 "answer": [
                   {
                     "type": "paragraph",
-                    "text": "Lorem pariatur Lorem incididunt esse quis id eu est reprehenderit amet nulla. Tempor exercitation ullamco cillum eu ullamco ipsum dolor fugiat voluptate duis consectetur sit. Id anim nostrud sint pariatur laborum culpa quis sunt tempor.",
+                    "text": "Exercitation sunt ullamco proident adipisicing consequat reprehenderit amet cupidatat commodo dolore aliqua.",
                     "spans": []
                   }
                 ]
@@ -265,14 +315,14 @@
                 "question": [
                   {
                     "type": "heading3",
-                    "text": "Empower sticky synergies",
+                    "text": "Orchestrate leading-edge deliverables",
                     "spans": []
                   }
                 ],
                 "answer": [
                   {
                     "type": "paragraph",
-                    "text": "Excepteur est exercitation elit reprehenderit. Velit elit officia do do excepteur ullamco pariatur minim minim aliqua dolore consectetur labore qui nulla. Laboris id esse commodo dolor amet proident exercitation magna aliquip.",
+                    "text": "Culpa tempor nisi dolor est eiusmod veniam dolore ad laboris elit anim aute. Ea aute non exercitation qui aliquip deserunt occaecat magna. Ullamco minim aliqua quis in dolore ad occaecat quis duis consequat do.",
                     "spans": []
                   }
                 ]
@@ -281,46 +331,14 @@
                 "question": [
                   {
                     "type": "heading3",
-                    "text": "Matrix bricks-and-clicks communities",
+                    "text": "Reinvent revolutionary deliverables",
                     "spans": []
                   }
                 ],
                 "answer": [
                   {
                     "type": "paragraph",
-                    "text": "Eu minim incididunt enim exercitation non aute id cillum ut non occaecat eu. Ipsum aliqua consequat ipsum veniam nostrud veniam pariatur adipisicing aliqua velit ut do.",
-                    "spans": []
-                  }
-                ]
-              },
-              {
-                "question": [
-                  {
-                    "type": "heading3",
-                    "text": "Transform bleeding-edge e-commerce",
-                    "spans": []
-                  }
-                ],
-                "answer": [
-                  {
-                    "type": "paragraph",
-                    "text": "Sint commodo minim fugiat aute aliquip reprehenderit aute ipsum fugiat quis aute in. Tempor occaecat nisi nulla excepteur officia adipisicing laborum amet consequat.",
-                    "spans": []
-                  }
-                ]
-              },
-              {
-                "question": [
-                  {
-                    "type": "heading3",
-                    "text": "Recontextualize end-to-end synergies",
-                    "spans": []
-                  }
-                ],
-                "answer": [
-                  {
-                    "type": "paragraph",
-                    "text": "Est ipsum aliquip ea duis fugiat esse laborum consequat consectetur minim eu fugiat duis in.",
+                    "text": "Cillum laborum enim ullamco officia culpa sunt qui mollit.",
                     "spans": []
                   }
                 ]
@@ -330,7 +348,7 @@
               "title": [
                 {
                   "type": "heading2",
-                  "text": "Leverage proactive experiences",
+                  "text": "Benchmark clicks-and-mortar platforms",
                   "spans": []
                 }
               ]
@@ -344,9 +362,9 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\QuestionAnswer\\default-slice\\preview.png",
+            "path": "/Users/arnaudlewis/Desktop/cli/prismic-demo-cah/.slicemachine/assets/slices/QuestionAnswer/default-slice/preview.png",
             "width": 800,
-            "height": 490
+            "height": 446
           }
         }
       },
@@ -435,12 +453,7 @@
               "text": [
                 {
                   "type": "paragraph",
-                  "text": "Quis officia laboris fugiat.",
-                  "spans": []
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Id velit ad nisi sint cupidatat mollit in elit ipsum pariatur proident deserunt laborum adipisicing. Deserunt ipsum officia nulla fugiat deserunt dolor enim.",
+                  "text": "Sit dolor Lorem amet velit.",
                   "spans": []
                 }
               ],
@@ -451,7 +464,7 @@
                 },
                 "alt": "Placeholder image",
                 "copyright": null,
-                "url": "https://images.prismic.io/tmp-test-cah/3c2c8174-bc81-46a1-98cf-4c1cbedb6b38_background.png?w=900&h=500&fit=crop"
+                "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa?w=900&h=500&fit=crop"
               }
             }
           },
@@ -463,28 +476,30 @@
               {
                 "link": {
                   "link_type": "Web",
-                  "url": "http://twitter.com"
+                  "url": "http://google.com"
                 },
-                "label": "incubate"
+                "label": "syndicate value-added initiatives"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "http://google.com"
+                },
+                "label": "harness innovative supply-chains"
               },
               {
                 "link": {
                   "link_type": "Web",
                   "url": "https://prismic.io"
                 },
-                "label": "user-centric"
+                "label": "embrace transparent e-commerce"
               }
             ],
             "primary": {
               "text": [
                 {
-                  "type": "heading2",
-                  "text": "Productize world-class",
-                  "spans": []
-                },
-                {
                   "type": "paragraph",
-                  "text": "Adipisicing commodo veniam quis tempor do excepteur adipisicing cillum fugiat non. Amet incididunt elit ipsum non nulla excepteur non aute non sint ex. Ea aliquip laboris sit nisi exercitation.",
+                  "text": "Do incididunt eu mollit est anim aute nostrud sunt voluptate reprehenderit qui.",
                   "spans": []
                 }
               ]
@@ -498,12 +513,12 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\TextSection\\default-slice\\preview.png",
+            "path": "/Users/arnaudlewis/Desktop/cli/prismic-demo-cah/.slicemachine/assets/slices/TextSection/default-slice/preview.png",
             "width": 800,
             "height": 530
           },
           "withCta": {
-            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\TextSection\\withCta\\preview.png",
+            "path": "/Users/arnaudlewis/Desktop/cli/prismic-demo-cah/.slicemachine/assets/slices/TextSection/withCta/preview.png",
             "width": 800,
             "height": 682
           }
