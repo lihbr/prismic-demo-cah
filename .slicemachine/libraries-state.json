@@ -182,7 +182,7 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "/Libraries/Desktop/prismic-demo-cah/.slicemachine/assets/slices/FeaturedLinks/default-slice/preview.png",
+            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\FeaturedLinks\\default-slice\\preview.png",
             "width": 800,
             "height": 1093
           }
@@ -344,7 +344,7 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "/Libraries/Desktop/prismic-demo-cah/.slicemachine/assets/slices/QuestionAnswer/default-slice/preview.png",
+            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\QuestionAnswer\\default-slice\\preview.png",
             "width": 800,
             "height": 490
           }
@@ -498,12 +498,12 @@
         },
         "screenshotPaths": {
           "default-slice": {
-            "path": "/Libraries/Desktop/prismic-demo-cah/.slicemachine/assets/slices/TextSection/default-slice/preview.png",
+            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\TextSection\\default-slice\\preview.png",
             "width": 800,
             "height": 530
           },
           "withCta": {
-            "path": "/Libraries/Desktop/prismic-demo-cah/.slicemachine/assets/slices/TextSection/withCta/preview.png",
+            "path": "D:\\Libraries\\Desktop\\prismic-demo-cah\\.slicemachine\\assets\\slices\\TextSection\\withCta\\preview.png",
             "width": 800,
             "height": 682
           }
