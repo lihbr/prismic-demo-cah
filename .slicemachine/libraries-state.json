@@ -1,0 +1,514 @@
+{
+  "slices": {
+    "components": {
+      "featured_links": {
+        "library": "slices",
+        "id": "featured_links",
+        "name": "FeaturedLinks",
+        "description": "FeaturedLinks",
+        "model": {
+          "id": "featured_links",
+          "type": "SharedSlice",
+          "name": "FeaturedLinks",
+          "description": "FeaturedLinks",
+          "variations": [
+            {
+              "id": "default-slice",
+              "name": "Default slice",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "FeaturedLinks",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Title",
+                    "placeholder": "This is where it all begins...",
+                    "allowTargetBlank": true,
+                    "single": "heading2"
+                  }
+                }
+              },
+              "items": {
+                "link": {
+                  "config": {
+                    "label": "Link",
+                    "placeholder": "",
+                    "allowTargetBlank": false
+                  },
+                  "type": "Link"
+                },
+                "tag": {
+                  "config": {
+                    "label": "Tag",
+                    "placeholder": ""
+                  },
+                  "type": "Text"
+                },
+                "title": {
+                  "config": {
+                    "label": "Title",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "heading3"
+                  },
+                  "type": "StructuredText"
+                },
+                "image": {
+                  "config": {
+                    "label": "Image",
+                    "constraint": {
+                      "width": 300
+                    },
+                    "thumbnails": []
+                  },
+                  "type": "Image"
+                },
+                "background": {
+                  "config": {
+                    "label": "Background Color",
+                    "placeholder": ""
+                  },
+                  "type": "Color"
+                },
+                "color": {
+                  "config": {
+                    "label": "Text Color",
+                    "placeholder": ""
+                  },
+                  "type": "Color"
+                }
+              }
+            }
+          ]
+        },
+        "mocks": {
+          "default-slice": {
+            "variation": "default-slice",
+            "name": "Default slice",
+            "slice_type": "featured_links",
+            "items": [
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "tag": "deploy visionary supply-chains",
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Enhance distributed e-markets",
+                    "spans": []
+                  }
+                ],
+                "image": {
+                  "dimensions": {
+                    "width": 200,
+                    "height": 500
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.prismic.io/prismic-demo-cah/71a21674-36ac-4227-a646-6cb64954d946_weight.png?w=300"
+                },
+                "background": "#60827f",
+                "color": "#b1312f"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "tag": "deploy visionary supply-chains",
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Enhance distributed e-markets",
+                    "spans": []
+                  }
+                ],
+                "image": {
+                  "dimensions": {
+                    "width": 200,
+                    "height": 500
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.prismic.io/prismic-demo-cah/f2afeeeb-1b8b-4c26-a577-4677b3adf7f2_computer.png?w=300"
+                },
+                "background": "#14c18c",
+                "color": "#b1312f"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "http://twitter.com"
+                },
+                "tag": "maximize vertical methodologies",
+                "title": [
+                  {
+                    "type": "heading3",
+                    "text": "Grow integrated vortals",
+                    "spans": []
+                  }
+                ],
+                "image": {
+                  "dimensions": {
+                    "width": 200,
+                    "height": 500
+                  },
+                  "alt": "Placeholder image",
+                  "copyright": null,
+                  "url": "https://images.prismic.io/prismic-demo-cah/b6733d7b-f9bc-43ad-9279-9d5278383404_tractor.png?w=300"
+                },
+                "background": "#14c18c",
+                "color": "#a85293"
+              }
+            ],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading2",
+                  "text": "Seize wireless relationships",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "isDirectory": true,
+          "extension": "vue"
+        },
+        "screenshotPaths": {
+          "default-slice": {
+            "path": "D:\\Libraries\\Desktop\\cardsAgainstHumanity\\.slicemachine\\assets\\slices\\FeaturedLinks\\default-slice\\preview.png",
+            "width": 800,
+            "height": 1093
+          }
+        }
+      },
+      "question_answer": {
+        "library": "slices",
+        "id": "question_answer",
+        "name": "QuestionAnswer",
+        "description": "QuestionAnswer",
+        "model": {
+          "id": "question_answer",
+          "type": "SharedSlice",
+          "name": "QuestionAnswer",
+          "description": "QuestionAnswer",
+          "variations": [
+            {
+              "id": "default-slice",
+              "name": "Default slice",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "QuestionAnswer",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Title",
+                    "placeholder": "This is where it all begins...",
+                    "allowTargetBlank": true,
+                    "single": "heading2"
+                  }
+                }
+              },
+              "items": {
+                "question": {
+                  "config": {
+                    "label": "Question",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "heading3"
+                  },
+                  "type": "StructuredText"
+                },
+                "answer": {
+                  "config": {
+                    "label": "Answer",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "multi": "paragraph,em,hyperlink,strong"
+                  },
+                  "type": "StructuredText"
+                }
+              }
+            }
+          ]
+        },
+        "mocks": {
+          "default-slice": {
+            "variation": "default-slice",
+            "name": "Default slice",
+            "slice_type": "question_answer",
+            "items": [
+              {
+                "question": [
+                  {
+                    "type": "heading3",
+                    "text": "Integrate seamless relationships",
+                    "spans": []
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Lorem pariatur Lorem incididunt esse quis id eu est reprehenderit amet nulla. Tempor exercitation ullamco cillum eu ullamco ipsum dolor fugiat voluptate duis consectetur sit. Id anim nostrud sint pariatur laborum culpa quis sunt tempor.",
+                    "spans": []
+                  }
+                ]
+              },
+              {
+                "question": [
+                  {
+                    "type": "heading3",
+                    "text": "Empower sticky synergies",
+                    "spans": []
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Excepteur est exercitation elit reprehenderit. Velit elit officia do do excepteur ullamco pariatur minim minim aliqua dolore consectetur labore qui nulla. Laboris id esse commodo dolor amet proident exercitation magna aliquip.",
+                    "spans": []
+                  }
+                ]
+              },
+              {
+                "question": [
+                  {
+                    "type": "heading3",
+                    "text": "Matrix bricks-and-clicks communities",
+                    "spans": []
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Eu minim incididunt enim exercitation non aute id cillum ut non occaecat eu. Ipsum aliqua consequat ipsum veniam nostrud veniam pariatur adipisicing aliqua velit ut do.",
+                    "spans": []
+                  }
+                ]
+              },
+              {
+                "question": [
+                  {
+                    "type": "heading3",
+                    "text": "Transform bleeding-edge e-commerce",
+                    "spans": []
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Sint commodo minim fugiat aute aliquip reprehenderit aute ipsum fugiat quis aute in. Tempor occaecat nisi nulla excepteur officia adipisicing laborum amet consequat.",
+                    "spans": []
+                  }
+                ]
+              },
+              {
+                "question": [
+                  {
+                    "type": "heading3",
+                    "text": "Recontextualize end-to-end synergies",
+                    "spans": []
+                  }
+                ],
+                "answer": [
+                  {
+                    "type": "paragraph",
+                    "text": "Est ipsum aliquip ea duis fugiat esse laborum consequat consectetur minim eu fugiat duis in.",
+                    "spans": []
+                  }
+                ]
+              }
+            ],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading2",
+                  "text": "Leverage proactive experiences",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "isDirectory": true,
+          "extension": "vue"
+        },
+        "screenshotPaths": {
+          "default-slice": {
+            "path": "D:\\Libraries\\Desktop\\cardsAgainstHumanity\\.slicemachine\\assets\\slices\\QuestionAnswer\\default-slice\\preview.png",
+            "width": 800,
+            "height": 490
+          }
+        }
+      },
+      "text_section": {
+        "library": "slices",
+        "id": "text_section",
+        "name": "TextSection",
+        "description": "TextSection",
+        "model": {
+          "id": "text_section",
+          "type": "SharedSlice",
+          "name": "TextSection",
+          "description": "TextSection",
+          "variations": [
+            {
+              "id": "default-slice",
+              "name": "Default slice",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "TextSection",
+              "primary": {
+                "text": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Text",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "multi": "paragraph,heading2,strong,em,hyperlink"
+                  }
+                },
+                "background": {
+                  "config": {
+                    "label": "Background",
+                    "constraint": {},
+                    "thumbnails": []
+                  },
+                  "type": "Image"
+                }
+              },
+              "items": {}
+            },
+            {
+              "id": "withCta",
+              "name": "WithCTA",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "TextSection",
+              "primary": {
+                "text": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Text",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "multi": "paragraph,heading2,strong,em,hyperlink"
+                  }
+                }
+              },
+              "items": {
+                "link": {
+                  "config": {
+                    "label": "Link",
+                    "placeholder": "",
+                    "allowTargetBlank": false
+                  },
+                  "type": "Link"
+                },
+                "label": {
+                  "config": {
+                    "label": "Label",
+                    "placeholder": ""
+                  },
+                  "type": "Text"
+                }
+              }
+            }
+          ]
+        },
+        "mocks": {
+          "default-slice": {
+            "variation": "default-slice",
+            "name": "Default slice",
+            "slice_type": "text_section",
+            "items": [],
+            "primary": {
+              "text": [
+                {
+                  "type": "paragraph",
+                  "text": "Quis officia laboris fugiat.",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Id velit ad nisi sint cupidatat mollit in elit ipsum pariatur proident deserunt laborum adipisicing. Deserunt ipsum officia nulla fugiat deserunt dolor enim.",
+                  "spans": []
+                }
+              ],
+              "background": {
+                "dimensions": {
+                  "width": 900,
+                  "height": 500
+                },
+                "alt": "Placeholder image",
+                "copyright": null,
+                "url": "https://images.prismic.io/tmp-test-cah/3c2c8174-bc81-46a1-98cf-4c1cbedb6b38_background.png?w=900&h=500&fit=crop"
+              }
+            }
+          },
+          "withCta": {
+            "variation": "withCta",
+            "name": "WithCTA",
+            "slice_type": "text_section",
+            "items": [
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "http://twitter.com"
+                },
+                "label": "incubate"
+              },
+              {
+                "link": {
+                  "link_type": "Web",
+                  "url": "https://prismic.io"
+                },
+                "label": "user-centric"
+              }
+            ],
+            "primary": {
+              "text": [
+                {
+                  "type": "heading2",
+                  "text": "Productize world-class",
+                  "spans": []
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Adipisicing commodo veniam quis tempor do excepteur adipisicing cillum fugiat non. Amet incididunt elit ipsum non nulla excepteur non aute non sint ex. Ea aliquip laboris sit nisi exercitation.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "isDirectory": true,
+          "extension": "vue"
+        },
+        "screenshotPaths": {
+          "default-slice": {
+            "path": "D:\\Libraries\\Desktop\\cardsAgainstHumanity\\.slicemachine\\assets\\slices\\TextSection\\default-slice\\preview.png",
+            "width": 800,
+            "height": 530
+          },
+          "withCta": {
+            "path": "D:\\Libraries\\Desktop\\cardsAgainstHumanity\\.slicemachine\\assets\\slices\\TextSection\\withCta\\preview.png",
+            "width": 800,
+            "height": 682
+          }
+        }
+      }
+    }
+  }
+}

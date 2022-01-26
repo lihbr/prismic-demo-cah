@@ -1,0 +1,5 @@
+{
+  "name": "CAH Slices",
+  "sliceCanvasURL": "https://prismic-demo-cah.netlify.app/slice-simulator",
+  "libraryPath": "@/slices"
+}

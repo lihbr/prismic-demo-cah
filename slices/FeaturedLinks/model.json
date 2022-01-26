@@ -1,0 +1,76 @@
+{
+  "id": "featured_links",
+  "type": "SharedSlice",
+  "name": "FeaturedLinks",
+  "description": "FeaturedLinks",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "FeaturedLinks",
+      "primary": {
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          }
+        }
+      },
+      "items": {
+        "link": {
+          "config": {
+            "label": "Link",
+            "placeholder": "",
+            "allowTargetBlank": false
+          },
+          "type": "Link"
+        },
+        "tag": {
+          "config": {
+            "label": "Tag",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading3"
+          },
+          "type": "StructuredText"
+        },
+        "image": {
+          "config": {
+            "label": "Image",
+            "constraint": {
+              "width": 300
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "background": {
+          "config": {
+            "label": "Background Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        },
+        "color": {
+          "config": {
+            "label": "Text Color",
+            "placeholder": ""
+          },
+          "type": "Color"
+        }
+      }
+    }
+  ]
+}
